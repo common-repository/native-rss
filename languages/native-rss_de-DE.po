@@ -1,0 +1,33 @@
+# Copyright (C) 2010 Native RSS
+# This file is distributed under the same license as the Native RSS package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Native RSS\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/native-rss\n"
+"POT-Creation-Date: 2011-01-20 21:48:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-01-21 00:31+0200\n"
+"Last-Translator: Waldemar Stoffel <stoffel@atelier-fuenf.de>\n"
+"Language-Team: Waldemar Stoffel <stoffel@atelier-fuenf.de>\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: native-rss.php:48
+msgid "Language settings"
+msgstr "Spracheinstellungen"
+
+#: native-rss.php:50
+msgid "Language:"
+msgstr "Sprache"
+
+#: native-rss.php:56
+msgid "Please give the two-letter ISO code of your language."
+msgstr "Bitte den zweistelligen ISO Sprachcode eingeben."
+
+#: native-rss.php:109
+msgid "Customize the &#60;language&#62; tag of your feeds."
+msgstr "Passe das &#60;language&#62; tag deiner Feeds an."
+

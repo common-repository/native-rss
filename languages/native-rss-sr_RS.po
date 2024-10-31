@@ -1,0 +1,80 @@
+# Copyright (C) 2012 Native RSS
+# This file is distributed under the same license as the Native RSS package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Native RSS 2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/native-rss\n"
+"POT-Creation-Date: 2012-05-30 08:00:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-05-15 10:12+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language-Team: \n"
+
+#: native-rss.php:48
+msgid "FAQ"
+msgstr "Često postavljana pitanja"
+
+#: native-rss.php:49
+msgid "Donate"
+msgstr "Donirajte"
+
+#: native-rss.php:63
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: native-rss.php:77
+msgid "Language settings"
+msgstr "Podešavanja jezika"
+
+#: native-rss.php:79
+msgid "Language:"
+msgstr "Jezik:"
+
+#: native-rss.php:85 native-rss.php:159
+msgid "Please give the two-letter ISO code of your language."
+msgstr "Unesite dvoslovni ISO kod svog jezika."
+
+#: native-rss.php:138
+msgid "Customize the &#60;language&#62; tag of your feeds."
+msgstr "Prilagodite oznaku &#60;jezika&#62; svojih unosa. "
+
+#: native-rss.php:145
+msgid "Save Changes"
+msgstr "Sačuvaj izmene"
+
+#. Plugin Name of the plugin/theme
+msgid "Native RSS"
+msgstr "Nasleđeni RSS"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wasistlos.waldemarstoffel.com/plugins-fur-wordpress/native-rss"
+msgstr "http://wasistlos.waldemarstoffel.com/plugins-fur-wordpress/native-rss"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin will change the language tag of the blogfeeds from \"en\" to the "
+"native language of your WP-installation by default. You can however, change "
+"the feed-language in the settings, e.g. if your blog is running in french, "
+"but you publish in dutch. Nothing specific will change in the feed but your "
+"blog will be found easier by people using the language, you are actually "
+"writing in. Also it helps search engines to list your site correcly, if you "
+"provide the feed as a sitemap."
+msgstr ""
+"Ovaj plugin će promeniti oznaku jezika unosa bloga iz \"en\" u nasleđeni "
+"jezik vaše WP instalacije po standardu. Ipak, u podešavanjima možete "
+"promeniti jezik unosa, npr. ako vam je blog na francuskom, ali vi ga "
+"objavljujete na holandskom. Ništa se posebno neće promeniti u feed-u, ali "
+"vaš blog će biti prijemčiviji za pretragu korisnicima jezika kojim pišete. "
+"Feed unet kao mapa site-a olakšava pretraživačima da pravilno prikažu vaš "
+"site."
+
+#. Author of the plugin/theme
+msgid "Waldemar Stoffel"
+msgstr "Waldemar Stoffel"
+
+#. Author URI of the plugin/theme
+msgid "http://www.waldemarstoffel.com"
+msgstr "http://www.waldemarstoffel.com"

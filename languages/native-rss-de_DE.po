@@ -1,0 +1,70 @@
+# Copyright (C) 2012 Native RSS
+# This file is distributed under the same license as the Native RSS package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Native RSS 2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/native-rss\n"
+"POT-Creation-Date: 2012-05-30 08:00:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-05-30 11:10+0200\n"
+"Last-Translator: Waldemar Stoffel <stoffel@atelier-fuenf.de>\n"
+"Language-Team: Waldemar Stoffel <stoffel@atelier-fuenf.de>\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: native-rss.php:48
+msgid "FAQ"
+msgstr "FAQ"
+
+#: native-rss.php:49
+msgid "Donate"
+msgstr "Spenden"
+
+#: native-rss.php:63
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: native-rss.php:77
+msgid "Language settings"
+msgstr "Spracheinstellungen"
+
+#: native-rss.php:79
+msgid "Language:"
+msgstr "Sprache:"
+
+#: native-rss.php:85
+#: native-rss.php:159
+msgid "Please give the two-letter ISO code of your language."
+msgstr "Bitte den zweistelligen ISO Code deiner Sprache eingeben."
+
+#: native-rss.php:138
+msgid "Customize the &#60;language&#62; tag of your feeds."
+msgstr "Passe das &#60;language&#62; tag deiner Feeds an."
+
+#: native-rss.php:145
+msgid "Save Changes"
+msgstr "Änderungen übernehmen"
+
+#. Plugin Name of the plugin/theme
+msgid "Native RSS"
+msgstr "Native RSS"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wasistlos.waldemarstoffel.com/plugins-fur-wordpress/native-rss"
+msgstr "http://wasistlos.waldemarstoffel.com/plugins-fur-wordpress/native-rss"
+
+#. Description of the plugin/theme
+msgid "This plugin will change the language tag of the blogfeeds from \"en\" to the native language of your WP-installation by default. You can however, change the feed-language in the settings, e.g. if your blog is running in french, but you publish in dutch. Nothing specific will change in the feed but your blog will be found easier by people using the language, you are actually writing in. Also it helps search engines to list your site correcly, if you provide the feed as a sitemap."
+msgstr "Dieses Plugin wird standardmäßig das language Tag deiner Blogfeeds von \"en\" zur nativen Sprache deiner WP-Installation ändern. Du kannst allerdings die Feed-Sprache in den Einstellungen anpassen, beispielsweise wenn dein Blog in Französisch läuft, aber du publizierst in Deutsch. Nichts wird sich wirklich ändern, aber dein Blog wird besser von Menschen gefunden, die die Sprache benutzen, in der du eigentlich schreibst. Außerdem wird deine Seite von Suchmaschinen korrekt gelistet, wenn du einen Feed als Sitemap angibst. "
+
+#. Author of the plugin/theme
+msgid "Waldemar Stoffel"
+msgstr "Waldemar Stoffel"
+
+#. Author URI of the plugin/theme
+msgid "http://www.waldemarstoffel.com"
+msgstr "http://www.waldemarstoffel.com"
+
